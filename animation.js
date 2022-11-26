@@ -4,5 +4,5 @@ function transfer(date) {
 }
 
 function sendMessage() {
-    document.getElementById('send').innerHTML = `<h1 class='thanks'>Спасибо за доверие. Скоро  свяжусь с Вами.<h1>`
+    document.getElementById('send').innerHTML = `<h1 class='thanks'>Спасибо за доверие. Скоро  свяжусь с Вами.<h1>`;
 }
