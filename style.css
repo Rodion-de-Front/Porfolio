@@ -384,5 +384,13 @@ span {
 ::-webkit-scrollbar-thumb {
   background: aliceblue;
 }
+
+.thanks {
+  width: 60vw;
+  position: relative;
+  margin-left: 9%;
+  margin-top: 20%;
+  color: aliceblue;
+}
   
 
