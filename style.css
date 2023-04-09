@@ -424,6 +424,12 @@ text-align: center;
 .third-line {
   display: block;
   text-align: center;
+  margin-bottom: 120px;
+}
+
+.forth-line {
+  display: block;
+  text-align: center;
   margin-bottom: 70px;
 }
 
